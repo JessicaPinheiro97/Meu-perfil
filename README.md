@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Jéssica Pinheiro
 
 - 🌱 Estudando PHP - Curso Full Stack PHP Developer
+- 🌱 Estudando desenvolvimento Web
 - 😄 Pronouns: ela/dela
 
 <div>
